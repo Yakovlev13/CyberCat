@@ -2,6 +2,6 @@
 main ()
 {
   int bonus = 5;
-  printf("dostali ste bonus %i",bonus);
+  printf("dostali ste bonus %d",bonus);
   return 0; 
 }
