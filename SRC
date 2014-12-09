@@ -1,0 +1,7 @@
+
+main ()
+{
+  int bonus = 5;
+  printf("dostali ste bonus %i",bonus);
+  return 0; 
+}
